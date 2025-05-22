@@ -75,7 +75,7 @@ public class Stacker extends JFrame implements KeyListener, WindowListener {
 
     // EFFECTS: sets up window in which stacker game will be played
     public Stacker() {
-        super("legally distinct stacker game");
+        super("stakka");
 
         shouldBeFocused = false;
 
